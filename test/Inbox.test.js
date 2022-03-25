@@ -33,31 +33,6 @@ describe("Inbox", () => {
   })
 });
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*class Car {
     park(){
         return 'stopped';
